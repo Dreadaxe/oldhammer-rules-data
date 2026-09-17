@@ -1,0 +1,451 @@
+{
+  "version": 1,
+  "terms": [
+    {
+      "term": "Armour save",
+      "aliases": [
+        "Armour Saves",
+        "Save"
+      ],
+      "definition_md": "A dice roll allowed to a model wearing armour to avoid a wound that has been inflicted.",
+      "target_slug": null,
+      "kind": "special",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Assassins",
+      "aliases": [
+        "Assassin"
+      ],
+      "definition_md": "Tueurs professionnels (Ninja de Nippon, Adeptes de Khaine elfes noirs, Clan Eshin skaven). Ils ne sont pas déployés normalement : le joueur les dissimule secrètement dans une unité de leur race, déguisés en modèle ordinaire.",
+      "target_slug": "special-troop-types",
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": "95-102"
+    },
+    {
+      "term": "Ballistic Skill",
+      "aliases": [
+        "BS"
+      ],
+      "definition_md": "The characteristic measuring a model's accuracy with missile weapons.",
+      "target_slug": null,
+      "kind": "special",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Beast pack",
+      "aliases": [
+        "Beast packs",
+        "Animal handler",
+        "Animal Handlers",
+        "Beast handler"
+      ],
+      "definition_md": "Unité de petits animaux menée par un ou plusieurs dresseurs. Les bêtes se placent devant les dresseurs, la psychologie utilise le profil du meneur, et la meute redevient sauvage si tous les dresseurs sont tués. Un dresseur coûte +5 points.",
+      "target_slug": "special-troop-types",
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": "95-102"
+    },
+    {
+      "term": "Berserkers",
+      "aliases": [
+        "Berserker",
+        "Berserk"
+      ],
+      "definition_md": "Unités capables d'entrer dans une frénésie sauvage, plus extrême encore que la réaction psychologique de frénésie. Fréquents dans les armées norses ; un berserker peut continuer à combattre malgré une blessure mortelle.",
+      "target_slug": "special-troop-types",
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": "95-102"
+    },
+    {
+      "term": "Bogs",
+      "aliases": [
+        "Bog",
+        "Mire",
+        "Marsh"
+      ],
+      "definition_md": "Areas of muddy or difficult ground, marked out with lichen or flock of an appropriate colour.",
+      "target_slug": "the-gaming-set-up",
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": "31"
+    },
+    {
+      "term": "Bombardier",
+      "aliases": [],
+      "definition_md": "A special character who leads a unit of war engines. See [Special Troops](/wiki/special-troop-types) for full rules.",
+      "target_slug": "special-troop-types",
+      "kind": "special",
+      "book": "Rulebook",
+      "source_pages": "106,189"
+    },
+    {
+      "term": "Censer bearers",
+      "aliases": [
+        "Censer bearer",
+        "Plague censer bearer"
+      ],
+      "definition_md": "Troupes skavens maniant un encensoir à peste au bout d'une chaîne. Les unités en formation de tirailleurs peuvent les éviter en plongeant (sauvegarde de 5 ou 6 sur un D6).",
+      "target_slug": "special-troop-types",
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": "95-102"
+    },
+    {
+      "term": "Character",
+      "aliases": [
+        "Characters",
+        "Hero"
+      ],
+      "definition_md": "An individual model such as a hero, champion or wizard, with its own profile and equipment.",
+      "target_slug": null,
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Charge",
+      "aliases": [
+        "Charges",
+        "Charging"
+      ],
+      "definition_md": "A move that brings a unit into hand-to-hand contact with an enemy, made at double the normal movement rate.",
+      "target_slug": null,
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Ditches",
+      "aliases": [
+        "Ditch"
+      ],
+      "definition_md": "Shallow drainage trenches that provide excellent cover. Represented by a strip of black card with built-up edges.",
+      "target_slug": "the-gaming-set-up",
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": "31"
+    },
+    {
+      "term": "Elites",
+      "aliases": [
+        "Elite",
+        "Elite troops",
+        "Shock troops"
+      ],
+      "definition_md": "Troupes d'élite au profil avancé de +1 à +4 points. On distingue deux grands types : troupes de choc et troupes de tir, selon la répartition des caractéristiques.",
+      "target_slug": "special-troop-types",
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": "95-102"
+    },
+    {
+      "term": "Falconers",
+      "aliases": [
+        "Falconer"
+      ],
+      "definition_md": "Troupes accompagnées d'un faucon ou autre petit rapace. Le rapace est traité comme une « arme » portée par le fauconnier : il peut être lancé sur une unité ennemie comme un tir, ou aider son maître au corps à corps.",
+      "target_slug": "special-troop-types",
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": "95-102"
+    },
+    {
+      "term": "Fanatics",
+      "aliases": [
+        "Fanatic",
+        "Goblin Fanatics",
+        "Ball-and-chain fanatic"
+      ],
+      "definition_md": "Gobelins gavés de champignons lâchés avec un boulet enchaîné qu'ils font tournoyer. Les unités en formation de tirailleurs peuvent les esquiver (sauvegarde de 5 ou 6 sur un D6).",
+      "target_slug": "special-troop-types",
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": "95-102"
+    },
+    {
+      "term": "Fear",
+      "aliases": [],
+      "definition_md": "A psychology rule: creatures which cause fear force opponents to test before they can charge or fight them.",
+      "target_slug": null,
+      "kind": "special",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Flagellants",
+      "aliases": [
+        "Flagellant"
+      ],
+      "definition_md": "Fanatiques religieux qui se fouettent jusqu'à l'extase avant la bataille et sombrent dans une folie guerrière. Ils sont soumis aux règles de haine envers les troupes du Chaos.",
+      "target_slug": "special-troop-types",
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": "95-102"
+    },
+    {
+      "term": "Flock",
+      "aliases": [],
+      "definition_md": "Coloured sawdust used to texture bases and scenery, available from model railway shops.",
+      "target_slug": "the-gaming-set-up",
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": "31"
+    },
+    {
+      "term": "Ford",
+      "aliases": [
+        "Fords"
+      ],
+      "definition_md": "A shallow part of a river where troops may cross. About 4\" wide, marked by small stones and paler water.",
+      "target_slug": "the-gaming-set-up",
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": "31"
+    },
+    {
+      "term": "Foresters",
+      "aliases": [
+        "Forester"
+      ],
+      "definition_md": "Troupes recrutées parmi les bûcherons et forestiers des bois profonds. Survivalistes experts, elles ignorent la pénalité de mouvement en forêt (mais ne peuvent pas y faire de mouvement de réserve).",
+      "target_slug": "special-troop-types",
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": "95-102"
+    },
+    {
+      "term": "Games table",
+      "aliases": [
+        "Gaming table",
+        "Games Table"
+      ],
+      "definition_md": "The playing surface. The smallest satisfactory area is 6' x 4'; 8' x 4' is better.",
+      "target_slug": "the-gaming-set-up",
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": "24"
+    },
+    {
+      "term": "Hedges",
+      "aliases": [
+        "Hedge"
+      ],
+      "definition_md": "Linear terrain providing cover for troops and concealing the area directly behind. Easily made from a line of lichen glued to a card base.",
+      "target_slug": "the-gaming-set-up",
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": "31"
+    },
+    {
+      "term": "Hills",
+      "aliases": [
+        "Hill"
+      ],
+      "definition_md": "Terrain feature creating blind-spots, vantage points and defensible positions. Usually modelled as stepped shapes cut from polystyrene ceiling tiles or chipboard, about 8\" across at the base.",
+      "target_slug": "the-gaming-set-up",
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": "30"
+    },
+    {
+      "term": "Initiative",
+      "aliases": [],
+      "definition_md": "The characteristic determining the order in which blows are struck in hand-to-hand combat.",
+      "target_slug": null,
+      "kind": "special",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Leadership",
+      "aliases": [
+        "Ld"
+      ],
+      "definition_md": "The characteristic used for psychology, break tests and rout tests.",
+      "target_slug": null,
+      "kind": "special",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Lichen",
+      "aliases": [],
+      "definition_md": "Dried plant material used to represent hedges, bushes, moss and undergrowth.",
+      "target_slug": "the-gaming-set-up",
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": "31"
+    },
+    {
+      "term": "Musician",
+      "aliases": [
+        "Musicians"
+      ],
+      "definition_md": "A regiment member carrying a horn or drum, aiding the unit's manoeuvring and morale.",
+      "target_slug": null,
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Psychology",
+      "aliases": [],
+      "definition_md": "The rules governing how troops react to fear, terror, hatred, frenzy, stupidity and other mental states.",
+      "target_slug": null,
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Regiment",
+      "aliases": [
+        "Regiments",
+        "Unit"
+      ],
+      "definition_md": "A body of troops of the same type, arranged in ranks and files and moving as a single formation.",
+      "target_slug": null,
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Rivers",
+      "aliases": [
+        "River",
+        "Stream"
+      ],
+      "definition_md": "Water features dividing the battlefield into zones. Usually built as sections about a foot long, 4\" wide for a river and 2\" for a stream.",
+      "target_slug": "the-gaming-set-up",
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": "31"
+    },
+    {
+      "term": "Rout test",
+      "aliases": [
+        "Rout Tests",
+        "Rout"
+      ],
+      "definition_md": "A Leadership test taken by an army that has suffered heavy losses, to see whether it keeps fighting.",
+      "target_slug": null,
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Scenic blocks",
+      "aliases": [
+        "Polystyrene scenic blocks",
+        "Scenic block"
+      ],
+      "definition_md": "Polystyrene squares of 2' x 2' covered in green flock, plain or carved with rivers, hills, roads and marshes.",
+      "target_slug": "the-gaming-set-up",
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Scouts",
+      "aliases": [
+        "Scout"
+      ],
+      "definition_md": "Individus expérimentés vivant de la terre, engagés comme petites forces de tirailleurs très spécialisés. Toutes les règles de tirailleurs s'appliquent sauf 7 et 8 : les scouts peuvent charger et tenir face à une charge.",
+      "target_slug": "special-troop-types",
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": "95-102"
+    },
+    {
+      "term": "Skirmishers",
+      "aliases": [
+        "Skirmisher",
+        "Skirmishing troops",
+        "Skirmishing formation"
+      ],
+      "definition_md": "Troupes légèrement armées qui combattent en formation lâche, sans rangs ni files. Elles contournent facilement les obstacles et traversent les terrains difficiles, mais manquent de cohésion d'unité.",
+      "target_slug": "special-troop-types",
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": "95-102"
+    },
+    {
+      "term": "Standard bearer",
+      "aliases": [
+        "Standard Bearers"
+      ],
+      "definition_md": "A regiment's banner carrier; the standard adds to the unit's combat result and morale.",
+      "target_slug": null,
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Terror",
+      "aliases": [],
+      "definition_md": "A psychology rule stronger than fear: troops failing the test flee from the terrifying creature.",
+      "target_slug": null,
+      "kind": "special",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Toughness",
+      "aliases": [],
+      "definition_md": "The characteristic measuring a model's resilience to damage.",
+      "target_slug": null,
+      "kind": "special",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Walls",
+      "aliases": [
+        "Wall"
+      ],
+      "definition_md": "Linear terrain similar to hedges but more solid, and therefore better cover. Represented by lines of stone chippings or small pebbles.",
+      "target_slug": "the-gaming-set-up",
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": "31"
+    },
+    {
+      "term": "Weapon Skill",
+      "aliases": [
+        "WS"
+      ],
+      "definition_md": "The characteristic measuring a model's ability in hand-to-hand combat.",
+      "target_slug": null,
+      "kind": "special",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Wizard",
+      "aliases": [
+        "Wizards",
+        "Magic-user"
+      ],
+      "definition_md": "A character able to cast spells, using magic points and a level of mastery.",
+      "target_slug": null,
+      "kind": "unit",
+      "book": "Rulebook",
+      "source_pages": ""
+    },
+    {
+      "term": "Woods",
+      "aliases": [
+        "Wood"
+      ],
+      "definition_md": "Area terrain that is difficult to move or fire through. Boundaries are marked with lichen, flock or a piece of green card, with model trees placed inside.",
+      "target_slug": "the-gaming-set-up",
+      "kind": "rule",
+      "book": "Rulebook",
+      "source_pages": "31"
+    }
+  ]
+}

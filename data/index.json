@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "generated_by": "oldhammer-rules-index",
+  "pages": [
+    {
+      "slug": "rulebook-contents",
+      "title": "Contents",
+      "book": "Rulebook",
+      "category": "Introduction",
+      "source_pages": "p. 2-3",
+      "sort_order": 20,
+      "path": "content/rulebook/rulebook-contents.md"
+    },
+    {
+      "slug": "the-basic-game",
+      "title": "The Basic Game",
+      "book": "Rulebook",
+      "category": "Basic Game",
+      "source_pages": "p. 33-78",
+      "sort_order": 50,
+      "path": "content/rulebook/the-basic-game.md"
+    },
+    {
+      "slug": "advanced-rules-gaming-and-points",
+      "title": "Advanced Rules: Gaming, Points and Weapons",
+      "book": "Rulebook",
+      "category": "Advanced Rules",
+      "source_pages": "p. 79-89",
+      "sort_order": 60,
+      "path": "content/rulebook/advanced-rules-gaming-and-points.md"
+    },
+    {
+      "slug": "character-models",
+      "title": "Character Models",
+      "book": "Rulebook",
+      "category": "Advanced Rules",
+      "source_pages": "p. 90-94",
+      "sort_order": 61,
+      "path": "content/rulebook/character-models.md"
+    },
+    {
+      "slug": "special-troop-types",
+      "title": "Special Troop Types",
+      "book": "Rulebook",
+      "category": "Advanced Rules",
+      "source_pages": "p. 95-102",
+      "sort_order": 62,
+      "path": "content/rulebook/special-troop-types.md"
+    },
+    {
+      "slug": "beasts-and-engines-of-war",
+      "title": "Beasts and Engines of War",
+      "book": "Rulebook",
+      "category": "Advanced Rules",
+      "source_pages": "p. 103-114",
+      "sort_order": 63,
+      "path": "content/rulebook/beasts-and-engines-of-war.md"
+    },
+    {
+      "slug": "chariots",
+      "title": "Chariots",
+      "book": "Rulebook",
+      "category": "Advanced Rules",
+      "source_pages": "p. 115-120",
+      "sort_order": 64,
+      "path": "content/rulebook/chariots.md"
+    },
+    {
+      "slug": "aerial-movement-and-combat",
+      "title": "Aerial Movement and Combat",
+      "book": "Rulebook",
+      "category": "Advanced Rules",
+      "source_pages": "p. 121-124",
+      "sort_order": 65,
+      "path": "content/rulebook/aerial-movement-and-combat.md"
+    },
+    {
+      "slug": "special-formations-and-advanced-combat",
+      "title": "Special Formations and Advanced Combat",
+      "book": "Rulebook",
+      "category": "Advanced Rules",
+      "source_pages": "p. 125-132",
+      "sort_order": 66,
+      "path": "content/rulebook/special-formations-and-advanced-combat.md"
+    },
+    {
+      "slug": "buildings-fire-and-scenery",
+      "title": "Buildings, Fire and Scenery",
+      "book": "Rulebook",
+      "category": "Advanced Rules",
+      "source_pages": "p. 133-139",
+      "sort_order": 67,
+      "path": "content/rulebook/buildings-fire-and-scenery.md"
+    },
+    {
+      "slug": "deployment-winners-and-losers",
+      "title": "Deployment, Winners and Losers",
+      "book": "Rulebook",
+      "category": "Advanced Rules",
+      "source_pages": "p. 140-142",
+      "sort_order": 68,
+      "path": "content/rulebook/deployment-winners-and-losers.md"
+    },
+    {
+      "slug": "rulebook-introduction",
+      "title": "Introduction",
+      "book": "Rulebook",
+      "category": "Introduction",
+      "source_pages": "p. 7-9",
+      "sort_order": 70,
+      "path": "content/rulebook/rulebook-introduction.md"
+    },
+    {
+      "slug": "magic-rules",
+      "title": "Magic",
+      "book": "Rulebook",
+      "category": "Magic",
+      "source_pages": "p. 143-152",
+      "sort_order": 70,
+      "path": "content/rulebook/magic-rules.md"
+    },
+    {
+      "slug": "battle-magic-spells",
+      "title": "Battle Magic Spells",
+      "book": "Rulebook",
+      "category": "Magic",
+      "source_pages": "153-165",
+      "sort_order": 71,
+      "path": "content/rulebook/battle-magic-spells.md"
+    },
+    {
+      "slug": "demonic-spells",
+      "title": "Demonic Spells",
+      "book": "Rulebook",
+      "category": "Magic",
+      "source_pages": "p. 166-169",
+      "sort_order": 72,
+      "path": "content/rulebook/demonic-spells.md"
+    },
+    {
+      "slug": "elemental-spells",
+      "title": "Elemental Spells",
+      "book": "Rulebook",
+      "category": "Magic",
+      "source_pages": "p. 170-175",
+      "sort_order": 73,
+      "path": "content/rulebook/elemental-spells.md"
+    },
+    {
+      "slug": "illusionist-spells",
+      "title": "Illusionist Spells",
+      "book": "Rulebook",
+      "category": "Magic",
+      "source_pages": "p. 176-178",
+      "sort_order": 74,
+      "path": "content/rulebook/illusionist-spells.md"
+    },
+    {
+      "slug": "necromantic-spells",
+      "title": "Necromantic Spells",
+      "book": "Rulebook",
+      "category": "Magic",
+      "source_pages": "p. 179-181",
+      "sort_order": 75,
+      "path": "content/rulebook/necromantic-spells.md"
+    },
+    {
+      "slug": "magic-items",
+      "title": "Magic Items",
+      "book": "Rulebook",
+      "category": "Magic",
+      "source_pages": "p. 182-186",
+      "sort_order": 76,
+      "path": "content/rulebook/magic-items.md"
+    },
+    {
+      "slug": "the-warhammer-world",
+      "title": "The Warhammer World",
+      "book": "Rulebook",
+      "category": "The Warhammer World",
+      "source_pages": "p. 187-199",
+      "sort_order": 80,
+      "path": "content/rulebook/the-warhammer-world.md"
+    },
+    {
+      "slug": "the-old-world",
+      "title": "The Old World",
+      "book": "Rulebook",
+      "category": "The Warhammer World",
+      "source_pages": "p. 200-212",
+      "sort_order": 81,
+      "path": "content/rulebook/the-old-world.md"
+    },
+    {
+      "slug": "bestiary-introduction",
+      "title": "The Bestiary: Introduction",
+      "book": "Rulebook",
+      "category": "Bestiary",
+      "source_pages": "p. 203-211",
+      "sort_order": 89,
+      "path": "content/rulebook/bestiary-introduction.md"
+    },
+    {
+      "slug": "bestiary-races",
+      "title": "Bestiary: Races",
+      "book": "Rulebook",
+      "category": "Bestiary",
+      "source_pages": "p. 211-233",
+      "sort_order": 90,
+      "path": "content/rulebook/bestiary-races.md"
+    },
+    {
+      "slug": "bestiary-giant-races",
+      "title": "Bestiary: Giant Races",
+      "book": "Rulebook",
+      "category": "Bestiary",
+      "source_pages": "p. 234-239",
+      "sort_order": 91,
+      "path": "content/rulebook/bestiary-giant-races.md"
+    },
+    {
+      "slug": "bestiary-creatures",
+      "title": "Bestiary: Creatures",
+      "book": "Rulebook",
+      "category": "Bestiary",
+      "source_pages": "p. 240-250",
+      "sort_order": 92,
+      "path": "content/rulebook/bestiary-creatures.md"
+    },
+    {
+      "slug": "bestiary-creatures-of-chaos",
+      "title": "Bestiary: Creatures of Chaos",
+      "book": "Rulebook",
+      "category": "Bestiary",
+      "source_pages": "p. 251-256",
+      "sort_order": 93,
+      "path": "content/rulebook/bestiary-creatures-of-chaos.md"
+    },
+    {
+      "slug": "bestiary-undead-and-ethereal",
+      "title": "Bestiary: Undead and Ethereal Creatures",
+      "book": "Rulebook",
+      "category": "Bestiary",
+      "source_pages": "p. 257-264",
+      "sort_order": 94,
+      "path": "content/rulebook/bestiary-undead-and-ethereal.md"
+    },
+    {
+      "slug": "bestiary-demons-and-elementals",
+      "title": "Bestiary: Demons and Elementals",
+      "book": "Rulebook",
+      "category": "Bestiary",
+      "source_pages": "p. 265-272",
+      "sort_order": 95,
+      "path": "content/rulebook/bestiary-demons-and-elementals.md"
+    },
+    {
+      "slug": "appendices-and-forenronds-last-stand",
+      "title": "Forenrond's Last Stand and Handouts",
+      "book": "Rulebook",
+      "category": "Appendices",
+      "source_pages": "p. 273-306",
+      "sort_order": 99,
+      "path": "content/rulebook/appendices-and-forenronds-last-stand.md"
+    },
+    {
+      "slug": "rulebook-collecting-and-painting",
+      "title": "Collecting and Painting Your Forces",
+      "book": "Rulebook",
+      "category": "Introduction",
+      "source_pages": "p. 10-23",
+      "sort_order": 100,
+      "path": "content/rulebook/rulebook-collecting-and-painting.md"
+    },
+    {
+      "slug": "the-gaming-set-up",
+      "title": "The Gaming Set-Up",
+      "book": "Rulebook",
+      "category": "Introduction",
+      "source_pages": "p. 24-32",
+      "sort_order": 240,
+      "path": "content/rulebook/the-gaming-set-up.md"
+    }
+  ]
+}

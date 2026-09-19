@@ -7,51 +7,9 @@ source_pages: "p. 187-199"
 sort_order: 80
 ---
 
+
 # The Warhammer World {{p:187}}
-
-## Chapter contents {{p:188}}
-
-- The Warhammer World — 189
- - Why A Warhammer World? — 189
- - The Cosmic Background — 189
- - The Creation Of The Warhammer World — 189
- - The Emergence Of The Elves And Dwarfs — 189
- - The Fall Of The Slann — 190
-- Global Geography — 190
- - The Old World — 190
- - The Incursions Of Chaos — 194
- - Norsca — 194
- - The Southlands — 194
- - The Dark Lands — 194
- - Cathay — 194
- - Ulthuan — 194
- - The New World — 195
- - Lustria — 195
-- The Elder Age — 196
- - The Elves — 196
- - The Elves In The Old World — 196
- - The Elves In The New World — 196
- - The Rebellion Of The Dark Elves — 196
- - The Dwarfs — 196
- - The Dwarven Realm — 196
- - Humans — 197
- - Humans In The Old World — 197
- - Humans Elsewhere — 197
- - Halflings — 197
-- The Age Of Man — 197
- - Old Worlder Exploration — 198
- - The Dwarfs In The New Age — 198
- - The Elves In The New Age — 198
-- Timeline — 198
-- The Old World — 200
- - Main Geographic Features — 200
- - The Principal Human Nations Of The Old World — 200
- - The Dwarf Realm — 202
- - Dwarfs Within The Old World — 202
- - Wood Elf Communities — 202
- - Sea Elf Trading Communities — 202
-
-## The Warhammer World {{p:189}}
+\n## The Warhammer World {{p:189}}
 
 This section of the book introduces the background behind Warhammer Fantasy Battle. We shall be looking at the history and geography of the Warhammer world, as well as discussing some of the ways in which we have developed the world to meet our gaming needs. Like our own planet, the Warhammer world is a fairly large place, its history and geography are equally extensive and no-less involved. It would be foolish of us to try to write a complete description of the entire planet, because there simply isn't room in this book. Instead, we shall take an overview of the whole world, concentrating on one area in particular. This is the Old World, an area very much like late medieval Europe. Suffice to say, we fully intend to expand the concept of Warhammer to include the entire world, and several supplements are already in preparation.
 

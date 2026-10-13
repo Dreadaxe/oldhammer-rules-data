@@ -8,6 +8,7 @@ sort_order: 91
 ---
 
 
+
 # GIANT RACES {{p:234}}
 
 Creatures of the Giant races often appear in armies. They are extremely useful for providing extra hand-to-hand fighting ability... and for scaring the enemy witless!
@@ -107,6 +108,7 @@ Giants make special attacks with varying strengths. Their strength characteristi
 Because Giants are very variable creatures, some of whom are stronger, tougher, faster or slower than others, profiles for Giants are generate 3 before the battle under the supervision of the GM. In competition games, players may select a Giant (or Giants) where permitted, but do not generate its full profile until the battle is ready to begin. Although this means that some Giants are better than others, only the standard points value is paid. For each characteristic in turn, the player rolls a D6 and consults the following chart:
 
 |  D6 | M | WS | BS | S | T | W | I | A | Ld | Int | Cl | WP  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  1 | 5 | 2 | 2 | 6 | 6 | 5 | 1 | special | 5 | 4 | 5 | 5  |
 |  2 | 6 | 3 | 2 | 6 | 6 | 5 | 2 | special | 6 | 5 | 6 | 6  |
 |  3 | 6 | 3 | 3 | 7 | 6 | 6 | 2 | special | 6 | 5 | 6 | 6  |
@@ -225,13 +227,11 @@ Base Size. 40 x 40mm.
 |   | M | WS | BS | S | T | W | I | A | Ld | Int | Cl | WP | Pts  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  Treeman | 6 | 8 | 3 | 6 | 7 | 6 | 2 | 4 | 9 | 9 | 9 | 9 | 280  |
-
 |  5 Hero | 6 | 9 | 4 | 7 | 7 | 6 | 3 | 5 | 9 | 9 | 9 | 9 | 330  |
 |  10 Hero | 6 | 10 | 4 | 7 | 8 | 7 | 3 | 6 | 10+1 | 9 | 9 | 9 | 380  |
 |  15 Hero | 6 | 10 | 4 | 7 | 8 | 8 | 4 | 6 | 10+2 | 9 | 10+1 | 10+1 | 430  |
 |  20 Hero | 6 | 10 | 4 | 7 | 8 | 9 | 5 | 7 | 10+3 | 9 | 10+1 | 10+1 | 480  |
 |  25 Hero | 6 | 10 | 5 | 7 | 8 | 9 | 5 | 7 | 10+3 | 10+2 | 10+2 | 10+2 | 530  |
-
 |  5 Wizard | 6 | 9 | 3 | 7 | 7 | 6 | 2 | 4 | 9 | 10+1 | 10+1 | 10+ | 360  |
 |  10 Wizard | 6 | 9 | 3 | 7 | 7 | 7 | 3 | 4 | 10+1 | 10+2 | 10+1 | 10+2 | 410  |
 |  15 Wizard | 6 | 10 | 3 | 7 | 8 | 8 | 3 | 4 | 10+2 | 10+2 | 10+2 | 10+ | 505  |

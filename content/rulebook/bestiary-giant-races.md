@@ -7,6 +7,7 @@ source_pages: "p. 234-239"
 sort_order: 91
 ---
 
+
 # GIANT RACES {{p:234}}
 
 Creatures of the Giant races often appear in armies. They are extremely useful for providing extra hand-to-hand fighting ability... and for scaring the enemy witless!
@@ -81,9 +82,7 @@ Jump up and down. This attack may only be used against opponents under ten feet 
 
 Once casualties have been worked out the Giant player must make a 2D6 test against the Giant's WP. If the result is equal to or less than the WP, there is no result. If the score is greater than the WP, the Giant gets carried away (it's having such a good time!) and must continue to jump up and down every combat round until the unit is destroyed.
 
-If a Giant attempts to jump on a unit equipped with spears, halberds, pikes or other pole arms, there is a chance the Giant will hurt itself. A Giant's foot is not exactly sensitive, but even so the pain could be
-
-enough to enrage the creature. This is dangerous. After jumping on such a unit roll a D6. If the score is 6, the Giant is hurt; although no damage is caused. The Giant immediately leaves combat (no penalty for this - the enemy must reform next turn, if it is still around). The Giant makes an immediate full move away in a random direction. This can take the Giant through the unit it is fighting, and through additional units or small buildings. The Giant is hopping mad (literally!) and probably yelling and bawling like a deranged mastodon. Any unit of creatures under ten feet tall (other than the one originally fought) which the Giant moves over, takes D6 automatic hits at strength 5 - the so called 'hop attack'. The Giant continues to hop in a random direction each turn until the player can roll a 6 on a D6.
+If a Giant attempts to jump on a unit equipped with spears, halberds, pikes or other pole arms, there is a chance the Giant will hurt itself. A Giant's foot is not exactly sensitive, but even so the pain could be enough to enrage the creature. This is dangerous. After jumping on such a unit roll a D6. If the score is 6, the Giant is hurt; although no damage is caused. The Giant immediately leaves combat (no penalty for this - the enemy must reform next turn, if it is still around). The Giant makes an immediate full move away in a random direction. This can take the Giant through the unit it is fighting, and through additional units or small buildings. The Giant is hopping mad (literally!) and probably yelling and bawling like a deranged mastodon. Any unit of creatures under ten feet tall (other than the one originally fought) which the Giant moves over, takes D6 automatic hits at strength 5 - the so called 'hop attack'. The Giant continues to hop in a random direction each turn until the player can roll a 6 on a D6.
 
 Swing with club. This is a fairly boring attack, with a comparatively low amusement value, consequently it is not as popular with Giants as, for example, yell and bawl. The club is swung broadly across the enemy's front causing D6+2 automatic strength 5 hits to the unit's rank and file. There is no armour saving throw.
 
@@ -125,9 +124,7 @@ The main feature distinguishing Minotaurs is their general resemblance to a bull
 
 Minotaurs have minds and psychological traits easily as warped as their degenerate and corrupted bodies. They are brutal and perverse creatures with an insatiable appetite for raw flesh. Their favourite food is man, but they will eat anything living and will even turn upon each other if extremely hungry. Minotaurs delight in tearing their victims apart bit-by-bit and swallowing their pulsing flesh before the eyes of their comrades. Fresh blood has an intoxicating effect upon Minotaurs similar to that of alcohol on humans. Minotaur feeding sessions can quickly degenerate into an orgy of savagery and torture.
 
-Minotaurs live in secluded areas, often alongside other mutants, Beastmen and Chaotic bands. They often group together with other Beastmen to raid
-
-human farms and take captives. At other times they will lend their support to a Chaos band in return for a fair share of the captives. They are potent fighters but not very bright; they find it difficult to make weapons and everyday utensils. Most Minotaurs choose to live amongst other Beastmen, gaining armour, weapons and other manufactured goods in return for their fighting prowess.
+Minotaurs live in secluded areas, often alongside other mutants, Beastmen and Chaotic bands. They often group together with other Beastmen to raid human farms and take captives. At other times they will lend their support to a Chaos band in return for a fair share of the captives. They are potent fighters but not very bright; they find it difficult to make weapons and everyday utensils. Most Minotaurs choose to live amongst other Beastmen, gaining armour, weapons and other manufactured goods in return for their fighting prowess.
 
 Physique. Minotaurs stand at least ten feet tall and can be almost as broad. Their hides are dark and the fur around their head is usually jet black. Exposed areas of flesh may be pinkish. Their horns are white or yellowish and their eyes are red and threatening. Some Minotaurs may be white, grey or even albino, but this is less common than black.
 
@@ -148,7 +145,7 @@ A feeding unit may not use missile weapons. If shot at by enemy troops, the unit
 4. Minotaurs are too slow-witted to become wizards.
 5. Minotaurs may lead regiments of Chaos Beastmen. Minotaurs may also serve as champions in regiments of Beastmen or Warriors of Chaos.
 
-Profile
+### Profile
 
 |   | M | WS | BS | S | T | W | I | A | Ld | Int | Cl | WP | Pts  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -169,9 +166,7 @@ Ogres are believed to be distant relatives of humans, although if this is true, 
 
 Ogres live in the forests and, more especially, the mountains of the Old World, but are most commonly found towards the north and Norsca. Despite their antipathy towards other races they are much in demand as mercenaries and occasionally as bodyguards, pit-fighters or champions.
 
-Physique. Ogres stand over ten feet tall and are almost as broad. They are heavily muscled, notably between the ears. Their skin, almost as thick as
-
-that of a bull, is a dark brown or grey colour. Their hair is black, grey or white.
+Physique. Ogres stand over ten feet tall and are almost as broad. They are heavily muscled, notably between the ears. Their skin, almost as thick as that of a bull, is a dark brown or grey colour. Their hair is black, grey or white.
 
 Alignment. Despite their aggressive, cannibalistic and rather unattractive ways, Ogres are not considered to be evil, but are Neutral. Although Ogres are merciless killers, they are not plotters of evil, nor will they have much to do with goblinoids. Individual Ogres may be of any alignment, but for game purposes all are considered as Neutral.
 
@@ -184,7 +179,7 @@ Base Size. 40 x 40mm.
 3. Ogres will fight as mercenaries for most races, but distrust goblinoids. Although they will fight for goblinoids, their Ld characteristic value automatically falls by -1. This does not affect the points value.
 4. Ogres are a rough and impatient race with no time and only a superstitious regard for magic. Although Ogres may learn some magic, they are unable to rise beyond level 5 wizard.
 
-Profile
+### Profile
 
 |   | M | WS | BS | S | T | W | I | A | Ld | Int | Cl | WP | Pts  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -225,7 +220,7 @@ Base Size. 40 x 40mm.
 7. Treemen may stoop and pick up a rock during their movement phase instead of moving. They may then throw the rock up to 12" during the shooting phase, causing D6 strength 5 hits on any target unit. Alternatively, the rock may be dropped onto close combat opponents under ten feet tall instead of making any other attacks that round. A dropped rock causes D6 strength 5 hits. All saving throws against rock attacks are reduced by -2.
 8. Treemen may move through woods without penalty. They may cross obstacles up to ten feet wide or high without penalty.
 
-Profile
+### Profile
 
 |   | M | WS | BS | S | T | W | I | A | Ld | Int | Cl | WP | Pts  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -265,7 +260,7 @@ Base Size. 40 x 40mm.
 6. A Troglodyte unit may be led by a Lizardman.
 7. There are no Troglodyte wizards.
 
-Profile
+### Profile
 
 |   | M | WS | BS | S | T | W | I | A | Ld | Int | Cl | WP | Pts  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

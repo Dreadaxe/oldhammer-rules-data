@@ -7,6 +7,7 @@ source_pages: "p. 95-102"
 sort_order: 62
 ---
 
+
 end to their miserable existence! As such they should be made with a level of enthusiasm. Proceedings will be enhanced considerably if players actually frame a proper challenge, something along the lines of, "Come on out ye snivelling son of a scurvy rat-hound I can smell ye fouled bitches and hear ye knees knockin wi' fear." Challenges can be phrased to reflect the race and social standing of the character model issuing them, or to rub in some past defeat and wind up the opposing player!
 
 6. It is likely that a pack's beasts and handlers have different movement rates. However, we do not wish to separate handlers from their beasts as this would lead to confusion. Therefore, a pack normally moves at the rate of its handlers or beasts whichever is slower. However, a pack charges and pursues at the movement rate of its beasts regardless of whether handlers are faster or slower. This is an exception to the normal movement rules.
@@ -328,3 +329,25 @@ Civilians
 Area
 
 The baggage area must be placed on the table before any other troops, including advanced forces. If both sides have a baggage area, each rolls a dice and the lowest score places first. Baggage must be positioned along the base table edge, with the long side parallel to the base edge. The baggage area may not therefore extend more than 6" into the table. The baggage area is delineated by the wagon/s and additional hedges/lences representing barricades erected prior to the battle. These offer the same degree of protection to defenders as hedges. Players may
+
+{{p:103}} wish to provide a special army flag to place within the baggage, as well as appropriate wagon and civilian models.
+
+The civilians are placed inside the area, although they do not need to be arranged in a unit formation at this point. Civilians may fight if the baggage is attacked: they have typical profiles for creatures of their type. They are armed with improvised hand-to-hand combat weapons and may not be armed with other weapons. Unarmoured civilians are normally drawn from the majority creature type in the army, but may be Halflings in any army that includes Halflings amongst its fighting troops.
+
+During troop deployment a baggage area may be reinforced by the addition of character models, engines of war, and additional units (supposing they will fit within the area available!) However, using a unit in this way effectively takes it out of the battle, so players should be very careful about committing fighting troops to protecting the baggage. Additional troops placed within a baggage area may be moved out during the game, and other troops may enter it assuming there is room.
+
+### ATTACKING THE BAGGAGE AREA {{p:103}}
+
+Baggage areas are tempting targets for attack, containing all the army's goodies, including (more than likely) the pay chest! A unit able to charge the enemy's baggage at the beginning of its turn must do so unless there are enemy troops lying between, in which case the enemy troops must be attacked instead. A unit's leader may try to avoid this compulsive reaction by making a standard 2D6 test against the unit's *Ld* value. If successful, the unit does not have to charge and may behave as normal. If the test is failed the baggage, or interposing unit must be charged.
+
+Because the baggage represents such a wonderful opportunity for personal enrichment and gratification, the chargers must immediately roll for *frenzy*. Baggage rules only apply to troops subject to psychology. Troops not subject to psychology (such as undead) could not care less about baggage and are not obliged to attack baggage or take the tests described. Halflings are heavily motivated by the prospect of a good meal, and will automatically charge enemy baggage, or troops between them and the baggage - no test need be taken.
+
+When baggage areas are attacked, any civilians inside may be formed into an impromtu unit to fight off the enemy. They are positioned behind the barricade facing the attackers. Combat is fought as normal, civilian camp-followers are automatically routed off the table if they are pushed-back. Halfling civilians will fight tooth and nail to protect their supplies. This stirling quality makes them ideal as baggage guards (assuming they can be prevented from eating too much themselves). Any Halfling fighting in defence of the army's baggage area may add +2 to all 'to hit' rolls and +2 to their *strength*.
+
+When a unit attacks a baggage area, it is the baggage which is the main target, not its defenders. Therefore, when a defending unit routs, the attackers do not pursue. If the baggage is now undefended the victorious unit begins looting, which it continues to do until a successful *Ld* test is made at the beginning of that side's turn. A looting unit may do nothing else. Once it ceases looting, the unit will reorganise its ranks. The unit may not move during its next *movement phase*, but is then considered to be under control and may operate normally. A non-looting unit in possession of a baggage area is judged to have occupied and captured the baggage. So long as at least five models remain with the baggage it is considered captured, this being worth 100 points towards victory at the end of the game. Models may be detached from ordinary units for this purpose.
+
+### RECAPTURING THE BAGGAGE {{p:103}}
+
+Once a baggage area has been captured, friendly units automatically suffer *animosity* against troops from their own side occupying the baggage area (they want to loot it too!). If fighting breaks out over the possession of a baggage area, it automatically returns to 'looting' status until the fighting is over. A baggage area is worth only 50 points at the end of the game if it is still being looted.
+
+A player may always attempt to recapture his baggage area and thus deprive the enemy of points towards victory, but once it has been looted, it is worth nothing to the side to which it belongs. Just as attacking troops are not obliged to pursue out of a baggage area, troops attempting to recapture the baggage do not have to pursue routing troops out of a baggage area.

@@ -7,6 +7,7 @@ source_pages: "p. 90-94"
 sort_order: 61
 ---
 
+
 | Weapon | Range | Strength | Save modifier |
 | --- | --- | --- | --- |
 | Grenade | 6" | 3 | -2 |
@@ -291,3 +292,5 @@ If a challenge is taken up on another model's behalf, the model originally chall
 ### The Conduct Of Challenges
 
 The rules allow for a complex succession of challenges between units with many associated *character models*. However, in practice this rarely happens, and most challenges involve at most two models from each side. Challenges are your chance to call out your enemies and put an
+
+end to their miserable existence! As such they should be made with a level of enthusiasm. Proceedings will be enhanced considerably if players actually frame a proper challenge, something along the lines of, "Come on out ye snivelling son of a scurvy rat-hound I can smell ye fouled bitches and hear ye knees knockin wi' fear." Challenges can be phrased to reflect the race and social standing of the *character model* issuing them, or to rub in some past defeat and wind up the opposing player!

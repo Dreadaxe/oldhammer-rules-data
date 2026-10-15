@@ -7,6 +7,7 @@ source_pages: "p. 33-78"
 sort_order: 50
 ---
 
+
 # The Basic Game {{p:33}}
 
 Warhammer can become very complex, involving large numbers of rules to cover special and detailed cases. Fortunately, you don't have to learn them all as we've split the rules into easy to absorb sections in which the basic game mechanics are covered first. For when it comes right down to it, Warhammer can be very simple. All you do is move your troops and roll lots of dice. Its only when special troops are used, or when such things as terrain has to be crossed that it begins to get tricky.
@@ -1220,3 +1221,21 @@ Models will be required to represent the standard bearer and musician. These are
 Blows struck against standard bearer or musician models must be worked out separately, or distinguished by a different coloured dice. A model facing two models may decide to strike either (or both if it has two or more attacks), so a musician/standard bearer may be struck once, twice or not at all. Unless a player states how many attacks are being made against a musician/standard bearer, it should be assumed that no attacks are so directed.
 
 When working out who has won a combat round, a side with a standard in its front rank may add +1 to the number of wounds caused. For example, Orcs are fighting humans - the humans cause 4 wounds and the Orcs cause 3. However, the Orcs have their standard fighting in the front rank so add +1 to the damage caused. The engagement is therefore a draw and both sides hold. Note that the standard must be flying when the results of combat are worked out. If the standard bearer is slain during the combat round the standard is down and the bonus does not apply.
+
+Why
+
+First and foremost it really annoys your enemy! If you are taking part in a series of connected games the unit may wish to parade the captured standard in future battles. Capturing standards also adds to a player's victory points total at the end of the game or campaign.
+
+A standard may be recaptured in exactly the same way as it was captured. This means that a captured standard must normally be in the front rank if it is to be recaptured.
+
+When a unit's standard bearer is slain the model is removed. However, if the unit wins the combat round and follows-up its enemy, a fallen standard may be picked up by another model. Exchange the ordinary model for the standard bearer model and continue as normal. No penalty is applied because the standard bearer is a different individual - the standard is still flying and that is all that matters.
+
+If a unit's standard bearer is slain and it is pushed-back, the enemy may attempt to capture the standard as they advance. Needless to say, no unit likes to lose its standard, so a vicious fight will develop over its possession. Do not take a standard rout test, but fight another round of hand-to-hand combat immediately. Place the standard bearer model aside to indicate that it is to be fought over. If the side attempting the capture wins the round, they have captured the standard, and the defeated unit must take a standard rout test. If the side attempting to recapture the standard wins, the standard is recovered and the enemy must make a standard rout test. If the result is a draw the standard remains where it falls, becomes trampled into the ground, and is recovered by the winning side at the end of the battle.
+
+Once a standard has been captured, the player is entitled to take the model carrying it from his opponent. This model is then placed amongst the victorious unit and one of its own models is removed to compensate. The enemy model represents one of the unit's own warriors, even though it may be of a very different creature! Where creatures are very obviously different (e.g. a unit of Halflings captures an Ogre standard) a piece of paper may be fastened to one of the unit's models to indicate that it carries the captured standard. Models with captured standards need not fight in the front rank.
+
+If a unit's standard is captured its leadership characteristic drops by -2 for the remainder of the battle. This can only be regained by recapturing the standard. If the standard is lost but not captured, the unit's leadership characteristic drops by -1 for the remainder of the battle.
+
+Musicians make it easier for a unit to manoeuvre. A unit with a musician in the front rank may add +1 to its leadership score when testing to make a second or subsequent manoeuvre (i.e. a turn, a wheel, a formation change, etc.). However, this modifier may not take the unit's Ld score to more than 10.
+
+When a unit routs the first thing that happens is that the fleeing warriors will drop any bulky or heavy items - including standards and musical instruments. Once routed a unit loses its standard, its musician, and any captured enemy standards. Any standards dropped during the last round of combat are automatically captured. Other standards are simply dropped onto the ground and remain there until after the battle, when they are captured by the winning side. Models carrying standards and instruments are replaced with normal rank and file troops as appropriate, or can be removed as the first casualties during the free back.

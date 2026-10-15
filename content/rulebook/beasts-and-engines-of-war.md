@@ -3,9 +3,10 @@ slug: "beasts-and-engines-of-war"
 title: "Beasts and Engines of War"
 book: "Rulebook"
 category: "Advanced Rules"
-source_pages: "p. 103-114"
+source_pages: "p. 103-118"
 sort_order: 63
 ---
+
 
 ## BEASTS OF WAR {{p:103}}
 
@@ -588,3 +589,175 @@ The procedure for firing is as follows:
 5. Every time the fire thrower shoots there is a chance it will malfunction and explode. If the standard D20 rolls made to establish deviation is a 18, 19 or 20 something has gone wrong:
 
     - 18 - The rocket is a dud and fails to ignite. The weapon must be reloaded and fired.
+    - 19 - The rocket fires normally but fails to explode. The target unit suffers 1 automatic *strength* 3 hit with no *save modifier*. If damage is taken, 1 *wound* is caused. {{p:115}}
+    - 20 - The rocket explodes destroying the launcher. Place a standard *area template* over the crew and work out damage as if hit by their own weapon. In addition, some or all rockets carried by the second crewman may be ignited. See below.
+
+#### Hand-to-hand combat
+
+If charged, the bazuka team may stand and fire, or may halt. The team may not run away unless it deliberately abandons its weapon and ammunition.
+
+If engaged in hand-to-hand combat the crew may fight normally. However, if pushed-back during the engagement their bazuka and ammunition are assumed to be dropped. Once the engagement is over, the crew may recover any dropped weapons. A bazuka crew does not have to follow-up an enemy it pushes-back, but may do so if the player wishes. If hit by fire weapons, any rockets carried by the second crewman may ignite as explained below.
+
+#### Missile fire
+
+Missiles may not be directed against the weapon, but only against its crew. If hit by flaming missiles, any rockets carried by the second crewman may explode as described below.
+
+#### Accidental ignition
+
+The ammunition carried by the second crewman is highly unstable. If the team is hit by fire-based weapons, there is a chance its supply of rockets will be ignited. Roll a D6 and, if testing because the weapon has exploded, add +1. If the score is 6 or more, D6 rockets are ignited. The direction taken by each rocket is determined randomly by the GM, causing normal rocket damage on the first target in its path. Once its ammunition has been ignited, a bazuka team has none left and is useless.
+
+#### Crew loss
+
+Rocket launcher crew are highly motivated individuals with little regard for their own safety. They cannot be replaced by other troops, although a spare crew member may join another team and act as a reserve crewman. A single crewman may not operate the weapon.
+
+### FIRE THROWER {{p:115}}
+
+The fire thrower was originally developed by members of the Dwarf Engineers Guild. It was designed to be used against Goblins in the underground lairs beneath the Worlds Edge Mountains. The weapon proved reasonably effective, if somewhat unpredictable and dangerous. Since then it has been developed and even adopted by other races, although it is still an experimental device requiring more than a modicum of bravery on the part of its user.
+
+The basis of the weapon is a bound, airtight barrel lined with copper. This contains an inflammable mixture of sulphurous compounds and oil. To fire the weapon, one crewman pressurizes the barrel either by pumping air into it, or by adding a small amount of volatile chemical to the mixture. The other crewman holds the flexible pipe with its trigger and ignition mechanism. Once fired, a sheet of sticky, burning chemical hurls towards the target... or the fire thrower blows up!
+
+Casualties amongst fire thrower crews are high, their careers frequently curtailed by unfortunate accidents. Fire thrower operatives are regarded as slightly crazed. It is rumoured that they become addicted to the fumes from the chemicals used in preparing the weapon's fuel. Fire thrower teams always occupy the edge of an army's encampment, where the teams park their supply wagons, and construct huge vats in which to prepare fuel for their weapons. Other troops dislike being stationed near to the fire throwers because of the constant nocturnal explosions, intoxicated cackling, and occasional devastating chemical fires. Crews are immediately recognisable by their slightly singed appearance and the strong odour of inflammable spirits.
+
+The fire thrower is represented by two models called a team. One model is required to carry and prime the barrel of chemicals, while the other aims and fires the weapon. The two models must remain in base-to-base contact at all times. Both crew are required to carry and operate the weapon. If either crew member is lost the weapon cannot be moved or fired. The remaining crewman is moved in the same way as an independent character.
+
+#### Movement
+
+A fire thrower imposes a 1" movement penalty on its crew. Dwarfs are not subject to this penalty, as the extra weight does not bother them. A fire thrower crew may move in both the *movement phase* and the *reserves phase*. As fire throwers are carried by their crew, they may be moved over *obstacles* and through *difficult terrain* at the normal penalty for these terrain types.
+
+#### Firing
+
+Because a fire thrower needs to be primed, the team may not move and fire. If the weapon fires the team may not make a *reserve move*. The weapon may fire within a 90° arc drawn from the firing model. If the firer needs to be turned to bear on its target this does not count as movement as long as the model is not moved further. Fire throwers employ an area *area template* in the same way as stone-throwers. This is represented by a card circle with a radius of 1".
+
+| Fire thrower | Range | Template | Strength | Save Mod. | Wounds per Hit | Points |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2 crew | 12" | 1" radius | 4 | -3 | D3 | 30 |
+
+The procedure for firing is as follows:
+
+1. The player selects the target point and places the *area template* directly over it. The centre of the *area template* must lie within the 12" maximum range of the weapon and within its fire arc of 90°. If the target is a unit of troops, the *area template* may be placed over a second, third or subsequent rank - it does not have to be placed on the first rank. Otherwise normal targeting rules apply.
+2. Once a target point has been selected and the *area template* positioned, the player must roll to see if the missile has landed on target. Roll a D20. If the score is 13-19 the shot has landed bang on target. If the score is 1-12 the shot has gone astray or deviated from the target point. The direction of deviation is indicated relative to a clock-face in the same way as stone throwers, with 6 o'clock pointing straight back to the shooter. If the score is 20 something has gone wrong, as explained under 6. below.
+3. If the shot lands on target work out damage as described under 4. below. If the shot deviates roll a D6. This is the distance the shot deviates in inches, measuring from the original target point. Deviation may take a shot beyond maximum range and normal fire arcs. However, no shot may deviate by more than half the measured range of that shot. A shot at a target 6" away may not therefore deviate by more than 3". Once the *area template* has been repositioned work out damage on any models inside.
+4. All models whose bases are wholly or partially within the area covered by the *area template* are automatically hit once. Work out the results using the weapon's *strength* of 4. If damage is indicated, make any *saving throws* immediately, remembering to take the *saving throw modifiers* into account. Any model failing to save takes D3 *wounds*.
+5. Fire throwers are fire weapons and receive a +1 *strength* bonus against flammable creatures. In addition, any flammable target hit by the weapon is automatically set on fire - no test is necessary. See the rules on *Fire*.
+6. Every time the fire thrower shoots, there is a chance it will malfunction and explode. If the standard D20 roll made to establish deviation is a 20, the barrel full of warpflame mixture has exploded, instantly killing the crew and placing anyone nearby in danger. Place an *area template* over the exploding crew and work out any casualties as normal.
+7. Any unit suffering damage from a fire thrower must make an immediate *panic* test.
+
+#### Hand-to-hand combat
+
+If engaged in hand-to-hand combat the crew may fight, but because they are encumbered by their weapon they are considered to be using improvised weapons. The team may stand and fire, but their heavy equipment prevents them running away.
+
+The team does not have to follow-up an enemy it pushes-back, but may do so if the player wishes. If either member of the team is hit by fire weapons the volatile chemical mixture will explode on a D6 score of 6.
+
+#### Missile fire
+
+Missiles may not be directed against the weapon but only against its crew. If the team is hit by flaming missiles, the chemical mixture will explode on a D6 score of 6. {{p:116}}
+
+#### Crew loss
+
+Fire thrower crew are highly trained specialists. They cannot be replaced by other troops, although a spare crew member may join another team and act as a reserve crewman. A single crewman may not operate the weapon.
+
+### WARP-FIRE THROWER {{p:116}}
+
+This device is used by the children of corruption, known to the world as Chaos Ratmen, and amongst those who are familiar with their noisome ways as Skaven. It is identical in every way to the normal fire thrower, except that it projects a magical mixture of inflammable materials and the dreaded warpstone - the raw stuff of Chaos. This potent brew is even more dangerous than the normal combustible concoction, and no sane creature would go anywhere near the stuff. Indeed, no creature could go near the material without suffering the warping effects of Chaos. The Skaven, as the arch-servants of Chaos, are indifferent and largely immune to its dangers.
+
+#### Firing
+
+The same rules and procedure apply to warp-fire throwers as to ordinary fire throwers:
+
+| Warp-fire Thrower | Range | Template | Strength | Save Mod. | Wounds | Points |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2 crew | 12" | 1" radius | 5 | -3 | D3 | 60 |
+
+Because the weapon fires warpflame, an incredibly volatile and dangerous mixture, the following additional rules apply:
+
+1. A warp-fire thrower explodes on a D20 roll of a 19 or 20 rather than on a 20. It is therefore twice as likely to blow up as an ordinary fire thrower.
+2. Warpflame attacks with a *strength* of 5, with the usual +1 bonus against flammable targets.
+3. If a model sustains damage from warpflame but is not killed, the warping effects of the mixture start to affect it. This is horrible to watch and none too pleasant to endure. The target's body begins to warp and change, distorting and melting as its bones crack and bend into new and unimaginable shapes. At the same time writhing snakes, scorpion tails and other monstrosities start to sprout from the victim's flesh, horns grow from its head and acidic vomit dribbles from its drooling lips.
+
+The victim, understandably upset about this sudden dissolution of its good looks, is driven insane by physical agony and mental trauma. This is all very pleasing to the Gods of Chaos of course. Within seconds the target is reduced to a pile of mobile caustic slime. At the start of the side's next turn it is moved 2D6" in a random direction, in the same way as a Goblin Fanatic. Any unit the slime moves over suffers D6 automatic *strength* 4 hits, with no *saving throw* for armour, although any applicable *magical auras* apply.
+
+Once the slime has moved, it decomposes to a harmless but repulsive puddle of tissue and plasma. This also occurs if a double is rolled when determing how far the slime moves.
+
+#### Hand-to-hand combat
+
+If engaged in hand-to-hand combat the crew may fight, but because they are encumbered by their weapon they are considered to be using improvised weapons. The team may stand and fire, but their heavy equipment prevents them running away. The team does not have to follow-up an enemy it pushes-back, but may do so if the player wishes. If either member of the team is hit by fire weapons, the volatile chemical mixture will explode on the D6 score of a 5 or 6. {{p:117}}
+
+#### Missile fire
+
+Missiles may not be directed against the weapon, but only against its crew. If the team is hit by flaming missiles, the chemical mixture will explode on the D6 score of a 5 or 6.
+
+#### Crew loss
+
+Warp-fire thrower crew are highly trained specialists. They cannot be replaced by other troops, although a spare crew member may join another team and act as a reserve crewman. A single crewman may not operate the weapon.
+
+### SKYROCKET {{p:117}}
+
+Simple tubular rockets have been used for centuries in Cathay and the east to provide colourful, nocturnal, public entertainment. The military version of the rocket is larger and more dangerous, but the design is basically the same. Rockets are launched from specially constructed frames. A typical rocket crew is two, and the frame is light enough to carry. From the humans of the east, the weapon has passed into the hands of the Hobgoblins.
+
+#### Movement
+
+A rocket launching frame, rockets and its crew have a 1" movement penalty. A rocket and its crew may only move in the *movement phase*, never in the *reserves phase*. It may not move over an *obstacle* or through *difficult terrain*.
+
+#### Firing
+
+Each crew, launcher and rocket model represents a team and a supply of rockets. So long as the launcher remains intact, the crew many continue to fire rockets, even though there is only one rocket model. A rocket may be fired within a 90° arc. The team may not move and fire in the same turn. Turning a rocket to face a target counts as movement and precludes firing.
+
+A rocket's maximum range is variable, depending on the number of ranging dice thrown. The maximum number of dice allowed is 7, so the maximum range is theoretically 42".
+
+| Rocket | Range | Type of Hits | Strength | Save Mod. | Wounds per Hit | Pts |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Up to 7D6" | Direct hit | Unit 2D6 S5 | -2 | D4 | 50 |
+|  |  | Dispersed hit | Models in 6" S3 | normal | 1 |  |
+|  |  | Aerial | Unit D6 S3 | normal | 1 |  |
+
+The following rules are used when firing rockets:
+
+1. The player nominates his target in the normal way. The firers must be able to see the target, and normal targeting restrictions apply.
+2. The player rolls between 1 and 7 D6 and adds the scores; he has a free choice over the number of dice thrown. The total is the distance the rocket travels towards its target.
+3. The rocket comes to land exactly as indicated by the dice roll and explodes. If the rocket comes to land within the formation of a unit, it causes 2D6 automatic *strength* 5 hits on the unit. No model may be hit more than once, but any model wounded takes D4 *wounds* with a *save modifier* of -2.
+4. If the rocket does not land within the formation of a unit, the explosion is dispersed, caused 1 automatic *strength* 3 hit on every model within 6". Any model wounded takes a single *wound* with a normal *saving throw*. {{p:118}}
+5. If any of the ranging dice show a 1, the rocket explodes prematurely in the air. This causes no damage on troops on the ground, but if the rocket's path crosses the position of aerial troops (irrespective of the height level), D6 automatic *strength* 3 hits are sustained. No model may be hit more than once, and any model wounded takes 1 *wound* and receives a normal *saving throw*.
+
+#### Speculative fire
+
+Because a rocket can be fired at a high trajectory, it can be fired over a hill or building at an enemy beyond. As the crew cannot see the target they do not know it is there (although they might have reason to believe it is... they can hear its battle cries, for example). Any firing at a target which the shooters cannot see is deemed speculative.
+
+Speculative shooting is relatively inaccurate. The firer nominates a target point within 42". This can be any point on the table, even the centre of a wood or village, or the other side of a hill. The player then rolls 7D6 - he cannot choose to roll fewer dice as with normal fire. Casualty results are worked out as normal.
+
+#### Hand-to-hand combat
+
+If engaged in hand-to-hand combat, the crew may fight as normal. The rocket frame confers no bonus of cover as it is considered to be too flimsy. Crew must take any charge at the halt or *run away*; they do not have to follow-up if they win the combat round. If pushed-back, or if they run away, the rockets and launcher are destroyed.
+
+If any crew member is hit by fire weapons, rockets will explode on a D6 roll of 6. Hits are distributed throughout the units engaged.
+
+#### Missile fire
+
+Missiles may not be directed against the rockets, but only against the crew. If the crew are hit by flaming missiles, the rockets will explode on a D6 score of 6.
+
+#### Crew loss
+
+Rocket crew are highly specialised and cannot be replaced by non-rocketeers. Odd rocketeers within the same unit may be drawn together to make up full crews. Extra crew members may be included to off-set casualties, but these do not make firing any faster and are assumed to be inactive until required. A rocket team reduced to a single crew member may only fire every other turn.
+
+### ROCKET KAMIKAZES {{p:118}}
+
+At some time in the distant past, some erudite Nipponese theoretician made the astounding mental leap of combining the Nipponese Kamikaze and the skyrocket. Brave volunteers allowed huge skyrockets to be tied to their backs, enabling them to soar through the sky towards their targets. Guided by the Kamikaze flapping his arms about, these rockets proved far more accurate than normal skyrockets. Because a Kamikaze has a privileged view of the battlefield, he is able to direct his missile against *speculative targets* far more accurately than normal.
+
+A Kamikaze model represents one volunteer and one rocket. The Kamikaze can be fired instead of any normal rocket, but once fired the model is removed and cannot be used again.
+
+#### Firing
+
+Firing is the same as for a normal skyrocket, except that once the landing point has been established, the player may use his Kamikaze to guide the missile during its last moments of flight. The player rolls 2D6 and may move the target point to anywhere within this number of inches. For example, if the dice score is 3+5 the player may reposition the landing point to anywhere within 8". The Kamikaze takes D4 *strength* 4 hits when the rocket explodes.
+
+#### Hand-to-hand Combat
+
+If Kamikazes become involved in hand-to-hand fighting all damage against them must be worked out separately.
+
+If hit by fire weapons, the Kamikaze explodes on a D6 score of 6.
+
+#### Missile fire
+
+If a team sustains missile casualties, Kamikazes may be hit randomly.
+
+#### Anti-Kamikaze fire
+
+Just as a missile unit may fire at a charging enemy, units equipped with missile weapons with a long range of more than 20 inches may fire at oncoming Kamikaze rockets. The unit must not be engaged in hand-to-hand combat. The unit suffers a total -3 'to hit' modifier and must pass a *Ld* test before it is allowed to fire. If killed, the Kamikaze may not guide the missile which then lands just like a normal rocket. If flaming missiles are used and the Kamikaze is killed, the rocket explodes harmlessly above the unit.

@@ -8,6 +8,7 @@ sort_order: 99
 ---
 
 
+
 # Forenrond's Last Stand - A Warhammer Battle {{p:273}}
 
 Forenrond's Last Stand is an interesting and fun battle; the kind of game a GM may set up for an evening's entertainment. A narrative sets the scene for the GM and introduces some of the *character models* involved. The forces are split into two commands - an Elf command and an Orc command. But before we get into the technical stuff, let's roll the action!

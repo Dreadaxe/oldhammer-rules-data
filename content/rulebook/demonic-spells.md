@@ -8,6 +8,7 @@ sort_order: 72
 ---
 
 
+
 unit within 12" of the caster must take an instability test. The zone is impervious to all magic except for a dispel magic spell.
 
 Once the zone is cast the caster may not cast any new magic or rest without instantly dispelling it. Two or more zones may not be cast onto the same unit of troops.

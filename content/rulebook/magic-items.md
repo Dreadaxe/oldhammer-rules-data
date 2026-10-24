@@ -8,6 +8,7 @@ sort_order: 76
 ---
 
 
+
 This spell can only be used against sentient creatures and will not work against large monsters (over 10' tall).
 
 may come from either. The maximum number of points available for magic items in competition games is given in Warhammer Armies.

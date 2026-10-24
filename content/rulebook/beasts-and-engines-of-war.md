@@ -9,6 +9,7 @@ sort_order: 63
 
 
 
+
 ## BEASTS OF WAR {{p:103}}
 
 Horses, wolves, boars or similar sized creatures are termed *riding animals*. A *riding animal* and its rider are treated as a single entity - all missile fire and hand-to-hand combat blows are directed against the rider. When a casualty occurs, both rider and mount are removed. This is a very convenient system for dealing with cavalry. However, for larger animals, such as mammoths, a different approach is requied.

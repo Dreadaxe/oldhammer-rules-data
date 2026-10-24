@@ -7,6 +7,7 @@ source_pages: "p. 121-124"
 sort_order: 65
 ---
 
+
 Wagons may be formed into leagers or barricades to provide 'soft' cover and a 'defended obstacle'. It is not necessary to push a wagon over to provide cover, but it is a good idea to unhitch the team, taking 1 stationary turn to do so. A wagon with a team can still be used as cover/an obstacle, but the team will bolt on a D6 roll of a 4 or more at the end of the combat round - running amok as for chariots. Models may fight from a wagon and still count it as cover/a defended obstacle. Wagons may be moved over like other obstacles. If troops are pushed-back from a wagon they are defending, the combat moves away from the wagon, and all advantages of cover are lost.
 
 Chariot crewmen, other than the driver, may get off the chariot in the movement phase. A crewman may get off a chariot at any point during or after its movement and still make a full move. The crewman is then free to fire missiles or to charge into close combat as normal. A chariot crewman may remount his chariot during the reserves phase. He may do this even if not otherwise allowed a reserve move, although he must not be engaged in hand-to-hand combat. A chariot crewman always has the option of not following-up a retreating enemy if he intends to remount his chariot in the following reserves phase. The crewman may remount the chariot at any point during its move.

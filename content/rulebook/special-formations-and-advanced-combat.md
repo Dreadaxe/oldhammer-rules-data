@@ -7,6 +7,7 @@ source_pages: "p. 125-132"
 sort_order: 66
 ---
 
+
 To determine where a plummeting object falls, move it D12" in a random direction. If it should land on another model, building etc. modify the wounds/damage points caused on the ground target (but not the falling object). The wounds/damage points equals D4 per height band plus the falling object's toughness minus the target's toughness. So, a falling human would be unlikely to harm an elephant - whereas a falling elephant would make a rather unpleasant mess of any human it might land on!
 
 We have already described how units must maintain strict formations of ranks and files. This section introduces some new formations which allow greater flexibility to units.

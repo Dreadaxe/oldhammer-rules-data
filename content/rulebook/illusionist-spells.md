@@ -7,6 +7,7 @@ source_pages: "p. 176-178"
 sort_order: 74
 ---
 
+
 constructions, including chariots and engines of war, within 12" to collapse. Troops inside or on top of a collapsing building must make their normal armour saving throw or be slain.
 
 ### Illusionary Appearance {{p:176}}

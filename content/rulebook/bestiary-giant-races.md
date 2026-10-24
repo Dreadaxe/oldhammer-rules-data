@@ -9,6 +9,7 @@ sort_order: 91
 
 
 
+
 # GIANT RACES {{p:234}}
 
 Creatures of the Giant races often appear in armies. They are extremely useful for providing extra hand-to-hand fighting ability... and for scaring the enemy witless!

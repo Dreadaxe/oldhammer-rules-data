@@ -7,6 +7,7 @@ source_pages: "p. 2-3"
 sort_order: 20
 ---
 
+
 # Contents {{p:2-3}}
 
 *Warhammer Fantasy Battle, Third Edition — original game design by Bryan Ansell, Richard Halliwell & Rick Priestley; Third Edition by Rick Priestley & Jim Bambra.*

@@ -7,6 +7,7 @@ source_pages: "p. 95-102"
 sort_order: 62
 ---
 
+
 # SPECIAL TROOP TYPES {{p:95}}
 
 This section introduces some special troop types to the Warhammer game. Some of these represent units of highly trained or specialist troops, such as elites or bombardiers. Others represent troops with unusual natural abilities, such as foresters or falconers, or troops equipped with weird weaponry such as Goblin Fanatics. While the lowly levies, represent the worst troops of any race.

@@ -7,6 +7,7 @@ source_pages: "p. 211-233"
 sort_order: 90
 ---
 
+
 ## INTELLIGENT RACES {{p:211}}
 
 This category encompasses creatures likely to appear as bulk troops in armies, humans, Goblins, Orcs, Dwarfs etc. It also includes a few creatures which are too rare or unusual to appear in great numbers, but which are intelligent thinking beings comparable to humans and other civilised creatures: this group includes the Coatl and Zoat. Snotlings have been included in this category out of deference to their humanoid appearance and goblinoid ancestry, but they are on the border-line as far as brains go!

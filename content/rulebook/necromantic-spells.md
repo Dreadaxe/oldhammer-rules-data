@@ -7,6 +7,7 @@ source_pages: "p. 179-181"
 sort_order: 75
 ---
 
+
 # Necromantic Spells {{p:179}}
 
 ## Level One

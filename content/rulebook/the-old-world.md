@@ -9,6 +9,7 @@ sort_order: 81
 
 
 
+
 ### Notes On The Calendar {{p:200}}
 
 The Warhammer World completes a revolution of its sun once every 400 days, making each year a little longer than a terrestrial year. All times and dates are given using this longer year. The Imperial Calendar begins with Hexenstag (New Years Day), which falls 17 days before the first day of spring. Other calendars begin the year upon different days, often upon the spring equinox (which falls in the second month of the Imperial Calendar).

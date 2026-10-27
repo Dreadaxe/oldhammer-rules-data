@@ -9,6 +9,7 @@ sort_order: 64
 
 
 
+
 ## CHARIOTS {{p:118}}
 
 Chariots are fearsome weapons, the more so when pulled by aggressive creatures such as giant wolves or boars. Chariot models do not come supplied with their own base, so you must be prepared to make your own. Suitable basing materials are mounting card and plywood. Bases should be wide enough and long enough to accommodate the model. As a rough guide allow between 20 and 25mm width for each draft animal.

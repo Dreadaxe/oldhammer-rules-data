@@ -8,6 +8,7 @@ sort_order: 50
 ---
 
 
+
 # The Basic Game {{p:33}}
 
 Warhammer can become very complex, involving large numbers of rules to cover special and detailed cases. Fortunately, you don't have to learn them all as we've split the rules into easy to absorb sections in which the basic game mechanics are covered first. For when it comes right down to it, Warhammer can be very simple. All you do is move your troops and roll lots of dice. Its only when special troops are used, or when such things as terrain has to be crossed that it begins to get tricky.

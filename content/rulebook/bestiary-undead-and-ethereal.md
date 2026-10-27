@@ -10,6 +10,7 @@ sort_order: 94
 
 
 
+
 # Undead {{p:257}}
 
 The Undead are an accepted reality in the Warhammer world, not mere creatures of legend as they are in our own. Even so, most people would hope not to encounter an undead creature face-to-face, preferring to restrict their knowledge of such things to fire-side tales and fanciful drinking stories.

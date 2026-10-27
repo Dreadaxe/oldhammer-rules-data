@@ -3,7 +3,7 @@ slug: "aerial-movement-and-combat"
 title: "Aerial Movement and Combat"
 book: "Rulebook"
 category: "Advanced Rules"
-source_pages: "p. 121-124"
+source_pages: "p. 121-125"
 sort_order: 65
 ---
 
@@ -167,3 +167,17 @@ The result is the distance in inches the object lands away from its target. A sc
 Dropped objects which do not land directly on target land in a random position. The distance from their target is indicated by the initial dice throw. If a dropped object strikes a target accidentally, work out damage as before.
 
 Missiles dropped from higher altitudes (+30 upwards) are unlikely to hit their target. Proceed as before, but instead of a D6 roll a D20 and deduct 1 - this indicates the distance in inches from the target.
+
+## Crashing {{p:125}}
+
+A flyer or any aerial debris crashing to the ground causes D4 *wounds/damage points* to itself and anything it lands on for each height band of original altitude. The chart below summarises the damage caused from various heights.
+
+| Height band | Damage |
+| --- | --- |
+| Attack level | D4 |
+| +10 | 2D4 |
+| +20 | 3D4 |
+| +30 | 4D4 |
+| +40 | 5D4 |
+
+To determine where a plummeting object falls, move it D12" in a random direction. If it should land on another model, building etc. modify the *wounds/damage points* caused on the ground target (but not the falling object). The *wounds/damage points* equals D4 per height band plus the falling object's *toughness* minus the target's *toughness*. So, a falling human would be unlikely to harm an elephant - whereas a falling elephant would make a rather unpleasant mess of any human it might land on!

@@ -9,6 +9,7 @@ sort_order: 240
 
 
 
+
 # The Gaming Set-Up {{p:24-32}}
 
 Every gamer dreams of the 'games room', a room where battles can rage undisturbed over a period of days or even weeks, where rack upon rack of painted models line the walls, their regimented symmetry broken only by carefully hung campaign maps and your prized collection of gaming books - you've got to have somewhere to put your copy of Warhammer after all! In the ideal set-up you never have to clear away until ready, valuable models are protected in cabinets, relatives avoid the room at all costs, no one eats off your games table or wreaks havoc with a duster. Well, we can all dream!

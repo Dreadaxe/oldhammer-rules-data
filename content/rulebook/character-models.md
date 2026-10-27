@@ -10,6 +10,7 @@ sort_order: 61
 
 
 
+
 | Weapon | Range | Strength | Save modifier |
 | --- | --- | --- | --- |
 | Grenade | 6" | 3 | -2 |

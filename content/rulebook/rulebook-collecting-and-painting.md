@@ -9,6 +9,7 @@ sort_order: 100
 
 
 
+
 # Collecting and Painting Your Forces {{p:10-23}}
 
 Whole books and countless magazine articles have been written on the subjects of collecting, painting and converting metal and plastic figures. This section introduces the basics of buying, assembling and painting models for use with Warhammer.

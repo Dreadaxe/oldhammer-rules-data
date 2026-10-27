@@ -9,6 +9,7 @@ sort_order: 70
 
 
 
+
 # Introduction {{p:7-9}}
 
 Recent years have seen an explosive increase in the number of fantasy films, books, TV, programs and even games of widely varying quality. Good, bad or indifferent, it's hard to deny that fantasy has become popular. Fantasy is about heroes and monsters, fabulous deeds and terrible battles. All these heroes inhabit unique worlds, but worlds with one thing in common - they are very different from our own. For one thing, magic is real, eldritch forces and strange races share the world with men, threatening humanity, aiding or thwarting heroes, influencing the lives of kings and changing the fate of nations. In short, fantasy is about imagination, and not just the imagination of writers and film producers, but of everyone who has ever read a fantasy story or watched a fantasy film. To this considerable list I would like to add the person who takes the process a step further by creating his or her own fantastic worlds - the fantasy gamer.

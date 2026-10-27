@@ -9,6 +9,7 @@ sort_order: 92
 
 
 
+
 7. Trolls are very powerful creatures. Any blows struck by them have a better than average chance of penetrating armour. An enemy's *armour saving throw* is reduced by -2 if struck by a Troll.
 
 8. Trolls do not wear armour. Occasionally, an especially bright Troll may manage to slip into armour fashioned for a giant, but only out of idle curiosity. No Troll is bright enough to remove a suit of armour once it is on. Armoured Trolls take great delight in their condition, beating their chests with great resounding booms. Bare metal has an unfortunate effect upon the Troll metabolism. A Troll wearing armour may not regenerate.

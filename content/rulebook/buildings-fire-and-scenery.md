@@ -3,9 +3,10 @@ slug: "buildings-fire-and-scenery"
 title: "Buildings, Fire and Scenery"
 book: "Rulebook"
 category: "Advanced Rules"
-source_pages: "p. 133-139"
+source_pages: "p. 133-140"
 sort_order: 67
 ---
+
 
 # Buildings, Fire and Scenery {{p:133}}
 
@@ -327,4 +328,36 @@ In cases where a river has a choice of courses, the positioning player may choos
 
 The river is completed, but there is still a marker remaining. When a marker is left 'stranded' in this way there are several options. If the river section could not possibly have joined the main river, it should be placed just like any other single section of river. Players may imagine it to be a separate watercourse, or perhaps part of the same river which joins somewhere off the table.
 
-If the section could have joined the main system, but was not chosen by the positioning player at the time, there are two options. The player due to place the section may, if he wishes, simply remove the marker. Alternatively, the player may place a river section within the segment, aiming towards an adjoining segment containing the river. This becomes a tributary. The gap between the edge of the segment and the river itself is then made up by the other player - in effect creating a small extra
+If the section could have joined the main system, but was not chosen by the positioning player at the time, there are two options. The player due to place the section may, if he wishes, simply remove the marker. Alternatively, the player may place a river section within the segment, aiming towards an adjoining segment containing the river. This becomes a tributary. The gap between the edge of the segment and the river itself is then made up by the other player - in effect creating a small extra {{p:140}} length of river.
+
+If a segment is to have two rivers these are placed as one item, by the same player starting from the same point, dividing to form an island. Unless the segment has more than one possible non-table edge exit, the two courses converge within the final 6" of the segment exit point.
+
+#### The Width Of Rivers
+
+The width of a river may be determined by your scenic accessories, but, where possible, should be determined randomly once all watercourses are in place. If the river has a tributary, the main river must be at least as wide as the tributary. If the river divides to form an island, the combined width of the divided rivers must be no more than 1½ times the width of the reunited river.
+
+| D6 | Width of river |
+|---|---|
+| 1-2 | 1" (stream) |
+| 3-4 | 2" (river) |
+| 5-6 | 3" (river) |
+
+Streams may be crossed and are considered to be normal obstacles. Rivers may not be crossed except at fords or bridges.
+
+#### Fords And Bridges
+
+Once the river has been positioned and its width determined, the GM must place either a bridge or a 4" wide ford somewhere along its course. This should be as equidistant from both sides' table edge as possible, and equally accessible from both sides. This is difficult, sometimes impossible, but the GM must attempt to be fair. A simple D6 roll can be used to determine whether it is a bridge or ford that the GM positions: 1-3 a bridge, 4-6 a ford.
+
+In addition either or both players may attempt to position a ford. If both wish to do so, a D6 is rolled and the player rolling the highest dice attempts to place first. A player may only position a ford within his own half of the table and must roll 4,5 or 6 on a D6 to do so. Once both players have rolled for and positioned any fords, the scenery is complete.
+
+### Buildings On The Battlefield
+
+Buildings can form pivotal points on the battlefield, their possession seriously affecting the outcome of the game. On the other hand, if you prefer a more open sort of game, buildings can prove a nuisance! Cavalry based armies, for example, cannot take advantage of buildings, and may find their formations hindered by built-up areas. Players should remember this when laying out scenery. In competition games a player may find himself obliged to position buildings (or other obstructive terrain). If you think a wide open battlefield would best suit your army and tactics, try to place buildings away from the main areas of conflict. If you think your plans would best be served by crowding the table, and hindering you opponent's movement, form buildings into villages or spread them across the battle front.
+
+Missile troops can always be *advance marched* (see *Deployment*) to occupy buildings before the battle begins. This gives you an immense advantage, because your opponent is faced with a choice of diverting troops to take the building, or of suffering consistent casualties as a result of your fire. However, beware of occupying a building simply because it is there - if your opponent avoids the occupied building, you have wasted your troops!
+
+### Odd Sized Tables And Restricted Scenery
+
+If your table is very small, or very large, the system described earlier will generate too little or too much scenery. However, for a table between 3' and 6' wide and 5' to 8' long, the basic charts are fine. If your playing area is different from these parameters, you may wish to modify the amount of scenery used by allowing the players to nominate one less, or one more, item at the initial generation stage. If your table is really huge, you might allow even more scenery, but this is left to the GM's discretion - after all if you're fighting over a table the size of a football pitch you're fighting some really weird battle anyway! In strict competition games organised by a third party, the amount of scenery may be varied according to the specific rules of that competition - but any deviation from the normal rules must be made clear to the players before the game, and preferably as soon as possible.
+
+GMs and players should try to ensure that they have any scenery required, and should be prepared to improvise where necessary. However, there is no reason why gamers shouldn't adapt or redraw the generation charts to provide a different scenic balance for non-competition games.

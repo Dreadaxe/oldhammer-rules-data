@@ -7,6 +7,7 @@ source_pages: "p. 125-133"
 sort_order: 66
 ---
 
+
 # Special Formations and Advanced Combat {{p:125}}
 
 We have already described how units must maintain strict formations of ranks and files. This section introduces some new formations which allow greater flexibility to units.

@@ -7,6 +7,7 @@ source_pages: "p. 143-153"
 sort_order: 70
 ---
 
+
 # Magic {{p:145}}
 
 Wizards and magic are important elements of fantasy books and films, and are no less important in a fantasy battle game. Wizards have the ability to cast spells - terrible destructive spells, cunning spells, and spells which weave confusion or terror within their enemies' breasts. Wizards can offer protection to a hero or to a unit of troops, or may seek to overthrow heroes by means of conjuration. Some wizards are able to control the forces of nature herself, others are allied to the masters of death, some have unholy pacts with demons, and there are those who are masters of illusion and deceit.
@@ -252,7 +253,7 @@ Players are sometimes hard-pressed to think of how to use illusions. In fact, il
 | 31 | 1 | Animate Sword |
 | 32 | 2 | Arrow Invulnerability |
 | 33 | 3 | Cause Cowardly Flight |
-| 34 | 4 | Cause Fear {{p:151}} {{p:152}} |
+| 34 | 4 | {{p:151}} {{p:152}} Cause Fear |
 | 35 | 5 | Cause Stupidity |
 | 36 | 6 | Cloak of Darkness |
 | 37 | 7 | Corrode |

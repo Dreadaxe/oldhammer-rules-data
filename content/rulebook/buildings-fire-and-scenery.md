@@ -10,6 +10,7 @@ sort_order: 67
 
 
 
+
 # Buildings, Fire and Scenery {{p:133}}
 
 Buildings are pivotal locations on the wargames table, points which must be possessed if the battle is to be won. A building with upper stories affords an excellent position from which archers can rain arrows upon their enemy below. A tall building also provides a view over surrounding scenic features such as woods and hills. Because buildings are such a common, as well as important part of the game, the rules which regulate their use must work as unobtrusively as possible. The system used in **Warhammer Battle** is to divide buildings into sections and levels, and to permit models limited movement from section to section and level to level.

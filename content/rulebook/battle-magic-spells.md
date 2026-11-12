@@ -13,6 +13,7 @@ sort_order: 71
 
 
 
+
 ## Level One {{p:153}}
 
 ### B1.1 Aura Of Resistance
@@ -141,9 +142,9 @@ This is a particularly mean little spell which can be used against any individua
 
 **Description**
 
-This spell may be cast against any stream or river within 12", driving the waters apart and creating a 4" wide gap. This lasts until the caster moves or casts another spell. It may be dispelled at any time - if enemy try to cross for example! The exposed river or stream bed counts as *difficult ground*.
+This spell may be cast against any stream or {{p:156}} river within 12", driving the waters apart and creating a 4" wide gap. This lasts until the caster moves or casts another spell. It may be dispelled at any time - if enemy try to cross for example! The exposed river or stream bed counts as *difficult ground*.
 
-### B1.13 Steal Mind {{p:156}}
+### B1.13 Steal Mind
 
 | Spell Level | Magic Points | Range |
 | --- | --- | --- |
@@ -193,7 +194,7 @@ If this spell is directed into hand-to-hand combat both sides will be affected a
 
 **Description**
 
-This is a more powerful version of the *Aura of Resistance*. The effect of this level 2 aura is to increase an unmoured model's *armour saving throw* roll by +2. An unarmoured model gains a *saving throw* of 4, 5 or 6. Auras may be dispelled by some magic or magical weapons, and so are not a complete guarantee of invulnerability. A model may only bear one aura at a time, and can dispel its own aura whenever the player wishes.
+This is a more powerful version of the *Aura of Resistance*. The effect of this level 2 aura is to increase an armoured model's *armour saving throw* roll by +2. An unarmoured model gains a *saving throw* of 4, 5 or 6. Auras may be dispelled by some magic or magical weapons, and so are not a complete guarantee of invulnerability. A model may only bear one aura at a time, and can dispel its own aura whenever the player wishes.
 
 ### B2.2 Cause Frenzy
 
@@ -235,7 +236,7 @@ This spell instils the psychological condition of *panic* in any unit within 24"
 
 This spell is a powerful version of the level one *fire ball* spell, allowing the caster to throw bolts of lightning, rather than fire balls, up to a range of 24". Creatures which dislike fire will be obliged to make a *panic* test.
 
-The lightning causes damage in the same way as bows, crossbows and other missile weapons. {{p:157}} Damage from lightning bolts is adjudicated immediately. The caster may throw up to one bolt per magic level during a single *magic phase*. All lightning bolts cast during the same phase must be directed against the same target unit.
+The lightning causes damage in the same way as bows, crossbows and other missile {{p:157}} weapons. Damage from lightning bolts is adjudicated immediately. The caster may throw up to one bolt per magic level during a single *magic phase*. All lightning bolts cast during the same phase must be directed against the same target unit.
 
 A lightning bolt emanates from the caster's hand or staff and strikes its target instantly. Normal targeting rules for missile fire apply, so the caster must be able to see the target, may not fire through other models over level ground etc.
 
@@ -327,7 +328,7 @@ The unit, including associated *character models* and the caster, becomes immune
 
 **Description**
 
-This spell may be cast against an enemy magician. The target may make a standard *magic saving throw* to escape the effects. If this save is unsuccessful the target magician is 'robbed' of 2D6 magic points, which immediately pass into the casting magician. {{p:158}} Stolen points cannot reduce a target's magic points to below 0 or increase the caster's magic points to more than the normal power level.
+This spell may be cast against an enemy magician. The target may make a standard *magic saving throw* to escape the effects. If this save is unsuccessful the target magician is 'robbed' of 2D6 magic points, which immediately pass into the casting magician. Stolen points cannot reduce a target's magic {{p:158}} points to below 0 or increase the caster's magic points to more than the normal power level.
 
 ### B2.14 Vortex Of Chaos
 
@@ -341,7 +342,7 @@ This spell opens up a tiny, but very dangerous, hole between the material univer
 
 The vortex begins its existence immediately in front of the caster, and is moved 2D6 inches in a direction nominated by the caster. Everything within the area moved over by the vortex is destroyed, including creatures, buildings, scenic items etc. The only exception is a *zone of magical immunity*, in which case both the zone and the vortex are destroyed.
 
-During each succeeding *magic phase* the vortex is moved 2D6 inches randomly by the GM, and disappears at the end of the *magic phase* on any roll of a double or a 7. {{p:159}}
+{{p:159}} During each succeeding *magic phase* the vortex is moved 2D6 inches randomly by the GM, and disappears at the end of the *magic phase* on any roll of a double or a 7.
 
 ### B2.15 Zone Of Sanctuary
 
@@ -353,7 +354,7 @@ During each succeeding *magic phase* the vortex is moved 2D6 inches randomly by 
 
 This spell affects the caster and the entirety of a unit he is associated with, enshrouding the area in a protective zone. The spell lasts for the rest of the game, until it is destroyed or until troops in the zone move, including if they are obliged to follow-up or are pushed-back in close combat.
 
-Models protected by the zone become immune to all psychological reactions, including those magically induced. The zone may not be entered by any undead, ethereal, demonic or elemental creature; nor may any such creature fire missiles or deploy magic into the zone. Any unit of undead, ethereal, demonic or elemental troops subject to *instability* must make an *instability* test if they approach within 12" of the caster. {{p:160}}
+Models protected by the zone become immune to all psychological reactions, including those magically induced. The zone may not be entered by any undead, ethereal, demonic or elemental creature; nor may any such creature fire missiles or deploy magic into the zone. Any unit of undead, ethereal, demonic or elemental troops subject to {{p:160}} *instability* must make an *instability* test if they approach within 12" of the caster.
 
 Once the zone is cast, the caster may not cast any new magic or rest without instantly dispelling it. Two or more zones may not be cast onto the same troops.
 
@@ -609,7 +610,7 @@ Chariot movement must conform to the normal rules for movement and may be used t
 
 Once the player has redirected a war engine's fire or a chariot's movement, he may continue to do so until the end of the battle. This spell continues to have effect even if the wizard is killed - it does not need to be maintained in any way. The chariot becomes uncontrollable by normal means and all the crew can do is leap out of it. However, if the draft animals are slain, the chariot comes to a halt. An engine continues to load and fire magically, whatever the reaction of its crew.
 
-### B4.6 Heal Wound
+### B4.6 Cure Severe Wound
 
 | Spell Level | Magic Points | Range |
 | --- | --- | --- |
@@ -735,4 +736,6 @@ This spell enables casters to increase one of their following *profile* characte
 
 This spell affects the caster and any associated unit, enshrouding them in a protective zone of magic. The spell lasts for the rest of the battle, until it is destroyed, or until any model in the zone moves, including being pushed-back or followed-up in hand-to-hand combat.
 
-All models within the zone become immune to all psychological reactions. The zone may not be entered by any undead, ethereal, demonic or elemental creatures; nor may any such creatures employ missiles into the zone. Any undead, ethereal, demonic or elemental troops subject to *instability* must make an *instability* test if they approach within 12" of the caster. {{p:165}}
+All models within the zone become immune to all psychological reactions. The zone may not be entered by any undead, ethereal, demonic or elemental creatures; nor may any such creatures employ missiles into the zone. Any undead, ethereal, demonic or elemental {{p:165}} {{p:166}} unit within 12" of the caster must take an *instability* test. The zone is impervious to all magic except for a dispel magic spell.
+
+Once the zone is cast the caster may not cast any new magic or rest without instantly dispelling it. Two or more zones may not be cast onto the same unit of troops.

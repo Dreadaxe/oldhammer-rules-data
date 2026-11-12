@@ -7,16 +7,6 @@ source_pages: "p. 166-169"
 sort_order: 72
 ---
 
-
-
-
-
-
-
-unit within 12" of the caster must take an instability test. The zone is impervious to all magic except for a dispel magic spell.
-
-Once the zone is cast the caster may not cast any new magic or rest without instantly dispelling it. Two or more zones may not be cast onto the same unit of troops.
-
 ### D1.3 Summon Familiar {{p:166}}
 
 This spell allows the caster to summon a demonic familiar. The familiar will aid the wizard for the rest of the battle, giving 5 extra magic points to the wizard as described in the Bestiary. Only one familiar may be summoned in a game. Familiars must be controlled in the same way as other summoned demons. If unsuccessful, the familiar vanishes instantly and no other familiars may be summoned.

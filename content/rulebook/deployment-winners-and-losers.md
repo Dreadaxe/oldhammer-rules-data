@@ -7,6 +7,7 @@ source_pages: "p. 140-142"
 sort_order: 68
 ---
 
+
 # Deployment, Winners and Losers {{p:140}}
 
 ## DEPLOYMENT
